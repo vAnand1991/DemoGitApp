@@ -1,0 +1,2 @@
+rootProject.name='DemoGitApp'
+include ':app'
